@@ -1,0 +1,26 @@
+#body{
+    text-transform: uppercase;
+}
+
+#header{		
+    height: 60px;
+     }
+    
+#footer{		
+    height: 60px;
+     }
+    
+#main_subtitle{
+    size: 26px;
+    color: #0f0f0f;
+    
+    background-color:#cecece;
+    }
+#a{ 
+        text-decoration: none;
+    }
+#a:hover{
+        color: #ff0000;
+       }
+
+    
